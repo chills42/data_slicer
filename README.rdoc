@@ -1,6 +1,6 @@
 = data_slicer
 
-Description goes here.
+String extension for slicing fixed length data strings into their individual parts.
 
 == Contributing to data_slicer
  
