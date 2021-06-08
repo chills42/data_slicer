@@ -55,7 +55,7 @@ Gem::Specification.new do |s|
   else
     s.add_dependency(%q<rspec>, ["~> 2.14"])
     s.add_dependency(%q<rdoc>, ["~> 3.12"])
-    s.add_dependency(%q<bundler>, ["~> 1.0"])
+    s.add_dependency(%q<bundler>, [">= 2.2.10"])
     s.add_dependency(%q<jeweler>, ["~> 2.0.0"])
     s.add_dependency(%q<simplecov>, [">= 0"])
   end
